@@ -31,12 +31,16 @@ knowledge."
 
 
 ## 📺 Project Demonstration
-<div align="center">
+
+<p align="center">
   <video src="https://github.com/fayjan/mini-rag-bot-ind/releases/download/v1.0-demo/ai-chat-bot.mp4" width="100%" controls>
-    Your browser does not support the video tag. 
-    <a href="https://github.com/fayjan/mini-rag-bot-ind/releases/download/v1.0-demo/ai-chat-bot.mp4">Click here to download the video.</a>
+    Your browser does not support the video tag.
   </video>
-</div>
+</p>
+
+[🔗 Click here to watch the video if it doesn't load](https://github.com/fayjan/mini-rag-bot-ind/releases/download/v1.0-demo/ai-chat-bot.mp4)
+
+---
 
 
 ## ⚙️ How to Run
