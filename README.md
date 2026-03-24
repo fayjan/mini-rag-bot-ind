@@ -30,10 +30,11 @@ The LLM is provided with a strict System Prompt:
 knowledge."
 
 
-## 📺 Video Demonstration
+## 📺 Project Demonstration
 <div align="center">
   <video src="https://github.com/fayjan/mini-rag-bot-ind/releases/download/v1.0-demo/ai-chat-bot.mp4" width="100%" controls>
-    Your browser does not support the video tag.
+    Your browser does not support the video tag. 
+    <a href="https://github.com/fayjan/mini-rag-bot-ind/releases/download/v1.0-demo/ai-chat-bot.mp4">Click here to download the video.</a>
   </video>
 </div>
 
