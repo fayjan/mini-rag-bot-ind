@@ -47,9 +47,11 @@ The LLM is provided with a strict System Prompt:
    ```
 
 2. **Install dependencies:**
-    ```pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
     ```
 
 3. **Run the App:**
-    ```streamlit run app.py
+    ```bash
+    streamlit run app.py
     ```
