@@ -26,7 +26,16 @@ The user query is embedded using the same `SentenceTransformer`. We then perform
 
 ### 3. Grounding & Anti-Hallucination
 The LLM is provided with a strict System Prompt:
-> "You are a construction assistant. Use ONLY the provided context to answer. If the answer is not in the context, state that you do not have that information. Do not use outside knowledge."
+> "You are a construction assistant. Use ONLY the provided context to answer. If the answer is not in the context, state that you do not have that information. Do not use outside 
+knowledge."
+
+
+## 📺 Video Demonstration
+<div align="center">
+  <video src="https://github.com/fayjan/mini-rag-bot-ind/releases/download/v1.0-demo/ai-chat-bot.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 
 ## ⚙️ How to Run
