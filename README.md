@@ -42,8 +42,10 @@ The LLM is provided with a strict System Prompt:
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/MD-Fayjan/mini-rag-bot-ind.git](https://github.com/MD-Fayjan/mini-rag-bot-ind.git)
-   cd mini-rag-bot-ind
+    git clone https://github.com/MD-Fayjan/mini-rag-bot-ind.git
+    cd mini-rag-bot-ind
+   ```
+
 2. **Install dependencies:**
     pip install -r requirements.txt
 
