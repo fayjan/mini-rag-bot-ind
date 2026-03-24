@@ -8,7 +8,7 @@ os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 
 st.set_page_config(page_title="Construction AI Assistant", layout="wide")
 st.title("🏗️ Construction AI Assistant")
-st.caption("Running locally on Mac via Ollama (Llama 3.2 3B)")
+st.caption("Running locally on device via Ollama (Llama 3.2 3B)")
 
 # 1. Initialize RAG Engine
 if 'rag' not in st.session_state:
